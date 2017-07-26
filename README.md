@@ -9,5 +9,7 @@ In this repo, you will find
 3. An ipython notebook that contains the set of exercises
 -- DP_Exercises-studentcopy.ipynb
 
+The lecture corresponding to the slides will be posted within a week.
 The exercises are to be completed in the notebook using various tools and techniques described in the slides, lecture, and other classes from MIDS.
+
 
